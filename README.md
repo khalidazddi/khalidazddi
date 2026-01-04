@@ -37,13 +37,6 @@ Open to freelance missions and full-time opportunities in AI workflow automation
   <img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white"/>
 </p>
 
-### 📂 Featured Projects (Portfolio)
-###| Project | Description | Tech | Link |
-###|---------|-------------|------|------|
-###| AI Lead Qualifier & Enricher (Make.com) | Automatically qualifies and enriches inbound leads using AI scoring | Make.com • OpenAI • Google Sheets | [View Repo](https://github.com/khalidazddi/ai-lead-qualifier-make) |
-###| AI Lead Qualifier & Enricher (n8n) | Same workflow built with n8n – self-hosted & advanced logic | n8n • OpenAI • Google Sheets | [View Repo](https://github.com/khalidazddi/ai-lead-qualifier-n8n) |
-###| More coming soon... | Content Generator • Support Agent • Research Agent • Invoice Automation | — | — |
-
 
 ### 📂 Featured Projects (Portfolio)
 | Project | Description | Tech | Link |
