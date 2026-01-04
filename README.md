@@ -54,9 +54,8 @@ Open to freelance missions and full-time opportunities in AI workflow automation
 | More coming soon... | Content Generator • Support Agent • Research Agent | — | — |
 
 ### 📫 Let's Connect
-###- 💼 LinkedIn: [linkedin.com/in/tonprofil](https://www.linkedin.com/in/tonprofil)
 - ✉️ Email: khalidazddi@gmail.com
-###- 💬 X / Twitter:
+
 - 🌐 Portfolio: [khalidazddi.github.io](https://khalidazddi.github.io)
 
 <p align="center">
