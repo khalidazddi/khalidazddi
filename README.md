@@ -38,11 +38,20 @@ Open to freelance missions and full-time opportunities in AI workflow automation
 </p>
 
 ### 📂 Featured Projects (Portfolio)
+###| Project | Description | Tech | Link |
+###|---------|-------------|------|------|
+###| AI Lead Qualifier & Enricher (Make.com) | Automatically qualifies and enriches inbound leads using AI scoring | Make.com • OpenAI • Google Sheets | [View Repo](https://github.com/khalidazddi/ai-lead-qualifier-make) |
+###| AI Lead Qualifier & Enricher (n8n) | Same workflow built with n8n – self-hosted & advanced logic | n8n • OpenAI • Google Sheets | [View Repo](https://github.com/khalidazddi/ai-lead-qualifier-n8n) |
+###| More coming soon... | Content Generator • Support Agent • Research Agent • Invoice Automation | — | — |
+
+
+### 📂 Featured Projects (Portfolio)
 | Project | Description | Tech | Link |
 |---------|-------------|------|------|
 | AI Lead Qualifier & Enricher (Make.com) | Automatically qualifies and enriches inbound leads using AI scoring | Make.com • OpenAI • Google Sheets | [View Repo](https://github.com/khalidazddi/ai-lead-qualifier-make) |
 | AI Lead Qualifier & Enricher (n8n) | Same workflow built with n8n – self-hosted & advanced logic | n8n • OpenAI • Google Sheets | [View Repo](https://github.com/khalidazddi/ai-lead-qualifier-n8n) |
-| More coming soon... | Content Generator • Support Agent • Research Agent • Invoice Automation | — | — |
+| Portfolio Hub | Overview of all my AI automation projects | — | [View Repo](https://github.com/khalidazddi/ai-automation-portfolio) |
+| More coming soon... | Content Generator • Support Agent • Research Agent | — | — |
 
 ### 📫 Let's Connect
 ###- 💼 LinkedIn: [linkedin.com/in/tonprofil](https://www.linkedin.com/in/tonprofil)
